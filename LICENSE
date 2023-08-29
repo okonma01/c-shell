@@ -1,0 +1,15 @@
+MIT License
+
+[
+    {
+        "title": "myshell",
+        "description": "A simple shell written in C",
+        "url": "https://github.com/okonma01/c-shell",
+        "tags": [
+            "C",
+            "shell",
+            "linux"
+        ],
+        "date": "2023-08-29T00:00:00.000Z",
+    }
+]
